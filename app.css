@@ -1,0 +1,42 @@
+header {
+    background-color: #ffc5e6;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    font-size: large;
+    
+}
+aside {
+    padding-top: 10px;
+    font-size: small;
+    font-family: 'Lemonada', cursive;
+}
+.list {
+    font-family: 'Lemonada', cursive;
+    padding-top: 10px;
+    font-size: small;
+}
+.pic1 {
+    float: right;
+    clear: right;
+    width: 300px;
+}
+h2{
+    font-family: 'Lemonada', cursive;
+    font-size: larger;
+}
+footer {
+    background-color: #ffc5e6;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    font-size: x-large;
+}
+h3 {
+    font-family: 'Lemonada', cursive;
+    padding-top: 10px;
+    text-align: center;
+    font-size: small;
+}
